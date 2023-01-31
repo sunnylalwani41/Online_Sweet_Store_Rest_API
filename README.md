@@ -85,5 +85,7 @@ Administrator can **Add, Update, View, Delete** **Products**  from the **Databas
     - View Orders 
    
  - Entity Relationship Diagram
-   - 
+    -
+   
+   ![ER DAIGRAM](https://user-images.githubusercontent.com/103615858/215702637-1633317a-a8e0-4613-95b8-42df608c962b.jpeg)
   
