@@ -59,7 +59,7 @@ The REST API allows a Customer to **Signup, Login** & **Browse** through the pro
 Administrator can **Add, Update, View, Delete** **Products**  from the **Database**.
   
 ## About
-This project is a team project of 5 members, This is an online sweet ordering Rest API that sells sweet to customer online. We built this Rest API project Within 5 days and this is our project during the **Masai curriculum (Construct Week)**
+This project is a team project of 5 members, This is an online sweet ordering Rest API that sells sweet to customer online. We built this Rest API project Within 5 days and this is our project during **the Masai curriculum (Construct Week)**
 
 ## Feature
 - Administrator
