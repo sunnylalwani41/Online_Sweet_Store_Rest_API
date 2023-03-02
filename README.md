@@ -58,7 +58,10 @@ The REST API allows a Customer to **Signup, Login** & **Browse** through the pro
 
 Administrator can **Add, Update, View, Delete** **Products**  from the **Database**.
   
+## About
+This project is a team project of 5 members, This is an online sweet ordering Rest API that sells sweet to customer online. We built this Rest API project Within 5 days and this is our project during the **Masai curriculum (Construct Week)**
 
+## Feature
 - Administrator
     -
     - Login & Logout
@@ -83,7 +86,18 @@ Administrator can **Add, Update, View, Delete** **Products**  from the **Databas
     - Add Order
     - Cancel Order
     - View Orders 
-   
+ 
+ ## Installation
+
+- copy this https://github.com/sunnylalwani41/Online_Sweet_Store_Rest_API.git
+- Select path where you want to store the project in your pc
+- open the corresponding file / folder with editor
+- open terminal of your editor
+- use  --> git clone (paste link) <-- 
+- after project cloned to your folder
+- go to BakedDelightApplication.java file inside com.masai folder
+- run as Spring Boot
+ 
  - Entity Relationship Diagram
     -
    
