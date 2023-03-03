@@ -59,7 +59,7 @@ The REST API allows a Customer to **Signup, Login** & **Browse** through the pro
 Administrator can **Add, Update, View, Delete** **Products**  from the **Database**.
   
 ## About
-This project is a team project of 5 members, This is an online sweet ordering Rest API that sells sweet to customer online. We built this Rest API project Within 5 days and this is our project during **the Masai curriculum (Construct Week)**
+This project is a team project of 5 members, This is an online sweet ordering Rest API that sells sweet to customer online. We built this Rest API project Within 5 days and this is our project during **the Masai curriculum (Construct Week)** in unit- SB201 [Demo Video](https://drive.google.com/file/d/1mRO8TqCNOjjizl28NQfV4pLC7l2pLIhw/view?usp=sharing)
 
 ## Feature
 - Administrator
@@ -95,8 +95,8 @@ This project is a team project of 5 members, This is an online sweet ordering Re
 - open terminal of your editor
 - use  --> git clone (paste link) <-- 
 - after project cloned to your folder
-- go to BakedDelightApplication.java file inside com.masai folder
-- run as Spring Boot
+- go to BakedDelightApplication.java file inside com.masai package
+- run as Spring Boot App
  
  - Entity Relationship Diagram
     -
